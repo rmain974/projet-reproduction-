@@ -21,4 +21,4 @@
 
 ## Référentiel
 # Front-end
-1. * Maquetter une application
+1. Maquetter une application
