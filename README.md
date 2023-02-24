@@ -22,5 +22,12 @@
 ## Référentiel
 # Front-end
 1. Maquetter une application
-2. Réaliser une interface utilisateur 
-3. 3.
+2. Réaliser une interface utilisateur web statique et adaptable 
+3. Développer une interface utilisateur web dynamique 
+4. Réaliser une interface utilisateur avec une solution de gestion de contenu e-commerce
+
+# Back- end
+5. Créer une base de données
+6. Développer les composants d'accès au données 
+7. Développer la partie back-end d'une application web ou web mobile
+8. Elaborer et mettre en oeuvre des composants une application de gestion de contenu e-commerce  
