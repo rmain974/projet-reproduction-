@@ -20,5 +20,5 @@
 ![logo](https://user-images.githubusercontent.com/118919895/221119993-6ba8226c-3261-4b03-b935-04ffc7392e71.png)
 
 ## Référentiel
-#Front-end
-1. Maquetter une application
+# Front-end
+1. * Maquetter une application
